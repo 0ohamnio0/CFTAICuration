@@ -1,0 +1,16 @@
+{
+"companyName": "FMA",
+"productName": "CFT AI CURATION",
+"productVersion": "0.1",
+"dataUrl": "CTFMapWEBGL_4.data.unityweb",
+"wasmCodeUrl": "CTFMapWEBGL_4.wasm.code.unityweb",
+"wasmFrameworkUrl": "CTFMapWEBGL_4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
